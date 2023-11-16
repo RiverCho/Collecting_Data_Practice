@@ -1,9 +1,11 @@
+
 # IMDB Top-Rated Movies Dataset
 
 ## Description
 This dataset offers a comprehensive list of IMDB's top-rated movies, providing insights into various facets of each film, from ratings and votes to financial performance. It presents an opportunity to explore the metrics that contribute to a film's success and its significance in the realm of cinema.
 
 ## Variables
+
 | Variable     | Description                                        | Data Type |
 |--------------|----------------------------------------------------|-----------|
 | title        | The name/title of the movie.                       | String    |
