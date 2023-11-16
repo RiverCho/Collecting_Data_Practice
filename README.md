@@ -2,7 +2,7 @@
 # IMDB Top-Rated Movies Dataset
 
 ## Description
-This dataset offers a comprehensive list of IMDB's top-rated movies, providing insights into various facets of each film, from ratings and votes to financial performance. It presents an opportunity to explore the metrics that contribute to a film's success and its significance in the realm of cinema.
+This dataset contains approximately 10,000 entries detailing movies from IMDB. Each entry provides the movie's title, release year, runtime in minutes, age certification, genre, director, leading stars, average IMDB rating out of 10, metascore based on critical reviews, total user votes on IMDB, and its box office gross earnings. It serves as a comprehensive reference for movie enthusiasts and researchers analyzing cinema trends.
 
 ## Variables
 
